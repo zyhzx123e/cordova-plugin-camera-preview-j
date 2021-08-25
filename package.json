@@ -1,0 +1,54 @@
+{
+  "_from": "cordova-plugin-camera-preview-alwaysmkt",
+  "_id": "cordova-plugin-camera-preview-alwaysmkt@0.12.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ppI64ReiFiwlNRGtTV1dZos0Gm9cCGqAvEI3+zkDGPn2b63QWGeY7XSSDPcoR23l1g0S9uskFOBcgn4u0+NU7Q==",
+  "_location": "/cordova-plugin-camera-preview-alwaysmkt",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-camera-preview-alwaysmkt",
+    "name": "cordova-plugin-camera-preview-alwaysmkt",
+    "escapedName": "cordova-plugin-camera-preview-alwaysmkt",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-camera-preview-alwaysmkt/-/cordova-plugin-camera-preview-alwaysmkt-0.12.0.tgz",
+  "_shasum": "bac74edc2747faf40334ec0173caafa362e0dd9d",
+  "_spec": "cordova-plugin-camera-preview-alwaysmkt",
+  "_where": "/Users/isitalways/Jason/aim5_Native_v5_wk_a",
+  "author": {
+    "name": "Jason",
+    "email": "zyh860@gmail.com",
+    "url": "github.com/zyhzx123e"
+  }, 
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "This is a fork of cordova-plugin-camera-preview with enhancement of preview in camera",
+  "devDependencies": {}, 
+  "keywords": [
+    "cordova",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "android",
+    "ios",
+    "ionic",
+    "camera",
+    "cam",
+    "camera-preview",
+    "preview"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-camera-preview-alwaysmkt",
+  "typings": "typescript/CameraPreview.d.ts",
+  "version": "0.12.0"
+}
